@@ -9,7 +9,7 @@ Building practical software across **AI/ML, web applications, data systems, and 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wasem%20Twfek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wasem-twfek-0ba45a169/)
 [![GitHub](https://img.shields.io/badge/GitHub-wasem15-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wasem15)
 
-Moscow, Russia · M.Sc. Software Engineering & Big Data — MEPhI
+Moscow, Russia · M.Sc. student — Software Engineering & Big Data, MEPhI
 
 </div>
 

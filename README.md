@@ -7,7 +7,7 @@
 Building practical software across **AI/ML, web applications, data systems, and backend engineering**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wasem%20Twfek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wasem-twfek-0ba45a169/)
-[![GitHub](https://img.shields.io/badge/GitHub-wasem15-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wasem15)
+[![GitHub](https://img.shields.io/badge/GitHub-Wasem-Twfek-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wasem-Twfek)
 
 Moscow, Russia · M.Sc. student — Software Engineering & Big Data, MEPhI
 
@@ -30,11 +30,11 @@ My current interests include:
 
 | Project | Description | Main technologies |
 | --- | --- | --- |
-| **[SkillForge](https://github.com/wasem15/Skillforge)** | Full-stack microlearning platform with authentication, courses, progress tracking, quizzes, and Docker-based local infrastructure. | React · TypeScript · Express · Prisma · PostgreSQL · Redis |
-| **[Linguist AI](https://github.com/wasem15/Linguist-AI)** | Browser-based English pronunciation training with audio recording, AI evaluation, and structured feedback. | Next.js · TypeScript · Supabase · Gemini |
-| **[Python Job Market Analytics](https://github.com/wasem15/Python-Job-Market-Analytics-Platform)** | Django application for exploring Python job-market data from the HeadHunter API. | Python · Django · API · Data |
-| **[Silent Speech Recognition](https://github.com/wasem15/Silent-Speech-Recognition)** | EMG signal preprocessing work for silent-speech recognition research. | Python · Signal Processing · EMG |
-| **[Smart Kitchen](https://github.com/wasem15/Smart-Kitchen)** | Web prototype for meal planning and inventory management using NLP and rule-based recommendations. | Python · Flask · NLP · SQLite |
+| **[SkillForge](https://github.com/Wasem-Twfek/Skillforge)** | Full-stack microlearning platform with authentication, courses, progress tracking, quizzes, and Docker-based local infrastructure. | React · TypeScript · Express · Prisma · PostgreSQL · Redis |
+| **[Linguist AI](https://github.com/Wasem-Twfek/Linguist-AI)** | Browser-based English pronunciation training with audio recording, AI evaluation, and structured feedback. | Next.js · TypeScript · Supabase · Gemini |
+| **[Python Job Market Analytics](https://github.com/Wasem-Twfek/Python-Job-Market-Analytics-Platform)** | Django application for exploring Python job-market data from the HeadHunter API. | Python · Django · API · Data |
+| **[Silent Speech Recognition](https://github.com/Wasem-Twfek/Silent-Speech-Recognition)** | EMG signal preprocessing work for silent-speech recognition research. | Python · Signal Processing · EMG |
+| **[Smart Kitchen](https://github.com/Wasem-Twfek/Smart-Kitchen)** | Web prototype for meal planning and inventory management using NLP and rule-based recommendations. | Python · Flask · NLP · SQLite |
 
 ## Tech Stack
 
@@ -87,6 +87,6 @@ I’m currently deepening my work in machine learning, data-intensive applicatio
 ### Let's build something useful.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wasem-twfek-0ba45a169/)
-[![GitHub](https://img.shields.io/badge/Explore_my_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wasem15)
+[![GitHub](https://img.shields.io/badge/Explore_my_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wasem-Twfek)
 
 </div>

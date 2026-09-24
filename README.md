@@ -73,7 +73,7 @@ My current interests include:
 
 **AI Engineering · Machine Learning · Data Engineering · Backend Systems**
 
-I’m currently deepening my work in machine learning, data-intensive applications, and production-oriented software engineering.
+I’m currently deepening my work in machine learning, data-intensive applications, and backend/system design.
 
 ## More
 
